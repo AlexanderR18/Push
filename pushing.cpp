@@ -5,5 +5,5 @@ using namespace std;
 
 int main(){
 
-    cout << "Pushig to github " << endl;
+    cout << "Changed to github " << endl;
 }
